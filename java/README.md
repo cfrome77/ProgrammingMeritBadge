@@ -5,6 +5,7 @@
 * Instructions to setup software: Download software for your platform from the “JDK” tab. You need to download the JSDK. If you just have the Java runtime (JRE), you will be able to run programs, but you will not be able to compile them.
 
 * Online Editor: https://repl.it/languages/java10
+   * https://repl.it/@ChrisFrome/Calculator
 
 * The program gives examples of:
 
