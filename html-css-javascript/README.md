@@ -13,6 +13,7 @@ No Installtion needed, runs in browser natively
     * loops
 
 * running the program:
+    * Download all files in this directory
     * Open index.html in the browser
     
 * Possible Change
